@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproyecto_openmusic"]=self["webpackChunkproyecto_openmusic"]||[]).push([[443],{782:function(n,e,u){u.r(e),u.d(e,{default:function(){return f}});var t=u(252);const c={class:"about"},o=(0,t._)("h1",null,"This is an about page",-1),r=[o];function s(n,e){return(0,t.wg)(),(0,t.iD)("div",c,r)}var a=u(744);const i={},p=(0,a.Z)(i,[["render",s]]);var f=p}}]);
+//# sourceMappingURL=about.9e376d62.js.map
